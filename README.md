@@ -1,4 +1,4 @@
-# Lang Graph With Multi-Agents
+# LangGraph With Multi-Agents
 **Introduction**
 
 As generative AI systems have become increasingly sophisticated, the need to structure their behaviour in modular, coordinated, and state-aware ways has never been more urgent. While LangChain has revolutionised the way developers build applications using large language models (LLMs), it lacked a formal mechanism for structured state transitions and cooperative intelligence among agents - until LangGraph entered the picture.
